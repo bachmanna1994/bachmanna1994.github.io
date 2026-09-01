@@ -973,9 +973,9 @@ footer {
 }
 
 /* =============================================
-   Print / PDF export
-   Used to generate assets/bachmann_cv.pdf from resume.html.
-   Deliberately contains no email address — see contact.html.
+   Print styles for the CV page
+   Makes resume.html print cleanly from the browser. The downloadable
+   assets/bachmann_cv.pdf is Annalyn's own export, not generated from this.
    ============================================= */
 
 @media print {
